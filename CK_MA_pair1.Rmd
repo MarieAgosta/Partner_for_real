@@ -6,7 +6,7 @@ date: "September 30, 2016"
 output: pdf_document
 ---
 
-The first data set comes via FiveThirtyEight. It is a survey of drug use by age group
+The first data set comes via [FiveThirtyEight](https://github.com/fivethirtyeight/data). It is a survey of drug use by age group
 carried out by the US Substance Abuse and Mental Health Services Administration.
 
 ```{r,include=FALSE, cache=TRUE}
